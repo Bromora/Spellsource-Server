@@ -4,13 +4,51 @@ title: What's New
 permalink: /whats-new/
 ---
 
-### 0.8.30-2.0.30 (In Progress)
+### 0.8.32-2.0.30 (In Progress)
 
 Bug fixes.
 
 ##### Content Fixes:
 
+ - Klive Icetooth now correctly plays its Opener. (1124)
+ - The End now applies to both player's hands and the stats effect applies before the Opener is evaluated. (1126)
+ - Uccian Hydra now correctly triggers. (1125)
+ - Yokai Bonder now reads, "Dash. Whenever this attacks, draw a Beast from your deck." (1123)
+ - Bogovanis now puts the Sourcestone into the opponent's deck. (1120)
+
+### 0.8.31-2.0.30 (Tuesday, May 28th, 2019)
+
+Updates from @Logovaz for Witch Doctor.
+
+New cards from @Muhframos for Occultist too!
+
+##### Content Additions:
+
+ - Significant additions to Occultist. (1057)
+
+##### Content Fixes:
+
+ - Changes to Witch Doctor and its Verdant Dreams set cards. (1113)
+ - Hatches the Dragon is no longer collectible. (1094)
+ - Changes to Aegwynn, Dragonling Pet and The End Time to make them more balanced. (1094)
+ - Nature Rager now gains +1 Health instead of +1/+1. (1077)
+ - Ending the turn with an Infinite Warden on the board without an End Time on the board no longer crashes the game.
+
+### 0.8.30-2.0.30 (Monday, May 27th, 2019)
+
+Introducing the Spellsource Legendaries!
+
+Bug fixes.
+
+##### Content Additions:
+
+ - New Spellsource Legendaries. (1074)
+
+##### Content Fixes:
+
  - Daring Duelist now only draws a card when it survives damage. (1111)
+ - Icecrown Lich, Assimilator and Scarlet Thirst on the board no longer produces an infinite loop.
+ - Copying minions that have jailed other minions no longer causes errors.
 
 ### 0.8.29-2.0.30 (Thursday, May 23rd, 2019)
 
